@@ -7,3 +7,9 @@ This game is terrible easy. Just use the arrows to move across the board. The bo
 Really easy with the QArithmetic library: https://github.com/hkhetawat/QArithmetic
 
 In a noiseless environment, one shot to the simulator will give you the right movement. But with the Melbourne_16 noise, things are different. Can you get safely to the other side of the board?
+
+
+## Dependencies
+- Python3
+- Qiskit 0.20
+- Pygame 1.9.6
